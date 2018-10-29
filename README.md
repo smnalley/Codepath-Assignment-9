@@ -19,16 +19,20 @@ Top 5 attacker IPs:
 3) Hong Kong 103.72.165.5 (201 attacks)
 4) United Kingdom  185.58.224.223 (190 attacks)
 5) United Kingdom  46.101.9.8 (159 attacks)
+
 TOP 5 Attacked ports:
 1)8088 (2,184 times)
 2)5060 (260 times)
 3)23 (239 times)
 4)80 (229 times)
 5)445 (165 times)
+
 TOP 5 Honey Pots:
 dionaea (6,241 attacks)
+
 TOP 5 Sensors:
 mhn-honeypot-1 (6,241 attacks)
+
 TOP 5 Attacks Signatures: (blank)
 
 Any unresolved questions raised by data collected?
